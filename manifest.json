@@ -1,0 +1,25 @@
+{
+  "name": "Santo Rosário",
+  "short_name": "Rosário",
+  "icons": [{
+        "src": "img/icons/favicon-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "img/icons/apple-touch-icon-152x152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "img/icons/mstile-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "img/touch/favicon-196x196.png",
+        "sizes": "196x196",
+        "type": "image/png"
+      }],
+  "start_url": "../santo_rosario/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF"
+}
