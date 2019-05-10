@@ -14,11 +14,11 @@
         "sizes": "144x144",
         "type": "image/png"
       }, {
-        "src": "img/touch/favicon-196x196.png",
+        "src": "img/icons/favicon-196x196.png",
         "sizes": "196x196",
         "type": "image/png"
       }],
-  "start_url": "../santo_rosario/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF"
