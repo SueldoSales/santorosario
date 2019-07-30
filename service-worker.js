@@ -70,6 +70,10 @@ self.__precacheManifest = [
     "revision": "53ee872040cc17862960dcba5eb2337b"
   },
   {
+    "url": "img/gloriosos.jpg",
+    "revision": "20363de50fb3d0ed18c4d8044dce6869"
+  },
+  {
     "url": "img/gozoso.jpg",
     "revision": "f292e767b96002468bac255dc76ebfa8"
   },
@@ -159,7 +163,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "78be4b74b229273451e3c248cd5a5eb9"
+    "revision": "05902e545730335a3e3585399174b75b"
   },
   {
     "url": "ladainha.html",
@@ -187,7 +191,7 @@ self.__precacheManifest = [
   },
   {
     "url": "scripts/main.js",
-    "revision": "1641ee392bf5c2229574195207fedece"
+    "revision": "418954db4a96e604a64a432c9718632d"
   },
   {
     "url": "scripts/menu.js",
