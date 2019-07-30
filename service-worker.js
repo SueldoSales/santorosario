@@ -58,6 +58,22 @@ self.__precacheManifest = [
     "revision": "fc86bcfea9e4f1aafa5a8a98b559fe20"
   },
   {
+    "url": "img/doloroso.jpg",
+    "revision": "4bfb5e9a122f2973513d2ffa8f77a51a"
+  },
+  {
+    "url": "img/doloroso2.jpg",
+    "revision": "e55cd57a69f981de6eb2997f74e0e104"
+  },
+  {
+    "url": "img/glorioso.jpg",
+    "revision": "53ee872040cc17862960dcba5eb2337b"
+  },
+  {
+    "url": "img/gozoso.jpg",
+    "revision": "f292e767b96002468bac255dc76ebfa8"
+  },
+  {
     "url": "img/icons/apple-touch-icon-114x114.png",
     "revision": "edfd428665ba1048601f29fbaf713477"
   },
@@ -143,7 +159,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "afc70f97109a0a1b8eb6540d6f3c7558"
+    "revision": "78be4b74b229273451e3c248cd5a5eb9"
   },
   {
     "url": "ladainha.html",
