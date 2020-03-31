@@ -6,7 +6,7 @@ Para instalar o app no seu celular basta acessar o link [https://santorosario.ne
 
 Referências:
 * Todo o conteúdo textual do App foi retirado de [Escriva Works](http://www.escrivaworks.org.br/book/santo_rosario.htm);
-* Todas a imagens do App são autoria de [Raul Berzosa](http://www.raulberzosa.com/)
+* Todas a imagens do App são de autoria de [Raul Berzosa](http://www.raulberzosa.com/)
 
 Tecnologias utilizadas:
 * PWA (Progressive Web App)

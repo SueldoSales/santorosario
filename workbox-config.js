@@ -1,7 +1,7 @@
 module.exports = {
-  "globDirectory": "../santorosario",
+  "globDirectory": "../SantoRosario",
   "globPatterns": [
     "**/*.{html,css,ico,txt,png,jpg,json,webapp,md,js}"
   ],
-  "swDest": "../santorosario/service-worker.js"
+  "swDest": "../SantoRosario/service-worker.js"
 };
